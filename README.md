@@ -463,14 +463,6 @@ tar -axf wazuh-install-files.tar.gz wazuh-install-files/wazuh-passwords.txt -O
 
 ---
 
-> 📁 **Repository Structure (suggested)**
-> ```
-> wazuh-lab/
-> ├── README.md          ← This file
-> ├── config.yml         ← Wazuh node config template
-> └── screenshots/       ← Add your lab screenshots here
-> ```
 
----
 
 *Lab manual created for educational purposes. Tested on Ubuntu 22.04 LTS with Wazuh 4.8.*
